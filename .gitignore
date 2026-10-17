@@ -1,0 +1,6 @@
+*.log
+backup/
+.env
+*.tmp
+__pycache__/
+.DS_Store
