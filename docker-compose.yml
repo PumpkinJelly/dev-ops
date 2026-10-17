@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  app:
+    build: .
+    image: klim-fomin-devops
+    container_name: klim-fomin-container
+    environment:
+      - STUDENT_NAME=Klim
+      - STUDENT_SURNAME=Fomin
+      - STUDENT_GROUP=IT2-2312
+      - STUDENT_ID=37073
+    ports:
+      - "8080:8080"
