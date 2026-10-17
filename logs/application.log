@@ -1,0 +1,12 @@
+INFO 2026-10-08 10:01:12 Application started successfully
+INFO 2026-10-08 10:01:15 User session opened
+WARNING 2026-10-08 10:02:03 Configuration file missing - using defaults
+INFO 2026-10-08 10:02:18 Database connection established
+ERROR 2026-10-08 10:03:41 Database connection failed - timeout
+INFO 2026-10-08 10:04:02 Application restarted after error
+WARNING 2026-10-08 10:05:17 Memory usage exceeded 80%
+INFO 2026-10-08 10:06:33 Incoming request received
+ERROR 2026-10-08 10:07:09 Request processing failed
+INFO 2026-10-08 10:08:22 Health check passed
+WARNING 2026-10-08 10:09:45 Disk space low on /var
+INFO 2026-10-08 10:10:01 Application stopped gracefully
